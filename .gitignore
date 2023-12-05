@@ -1,3 +1,11 @@
+# Smoothee
+__pycache__/
+smoothee/film/eval/__pycache__/
+smoothee/film/frame_interpolation_saved_model/
+smoothee/film/frames/
+*.mp4
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
